@@ -1,0 +1,64 @@
+SIRALAMA ALGORİTMALARI 
+
+1-) Bubble Sort ( Kabarcık Sıralama )
+
+En basit sıralama algoritmasıdır.
+İki elemanı kıyaslayarak sıralama yapar. Gerektiğinde yer değiştirir.
+Ardışık karşılaştırmalar yaparken ve yer değiştirme sıralamalarında kullanılır.
+* Büyük veri setlerinde verimli değildir.
+
+
+2-) Selection Sort ( Seçmeli Sıralama )
+
+Bir veri setindeki en büyük veya en küçük elemanı seçip sıralama yapar.
+Veri setini ikiye bölen bir algoritmadır. 
+Büyük veri setlerinde mantıklı bir yaklaşım değildir.
+
+
+3-) Insertion Sort ( Eklemeli Sıralama )
+
+Veri setini sıralı veya sırasız bölgelere ayırır. Sırasız bölgeden bir elemanı alır,
+sıralı bölgede uygun konuma yerleştirir.
+Bu işlem veri seti tamamen bitene kadar devam eder.
+
+
+4-) Quick Sort ( Hızlı Sıralama )
+
+Bir pivot eleman kullanarak veri setini ikiye böler.
+Pivot elemanın sol tarafı pivot elemandan küçük, sağ tarafı pivot elemandan büyük elemanlardan oluşur.
+Daha sonra bu işlemi her iki bölge için tekrar eder.
+
+
+5-) Merge Sort ( Birleştirme Sıralaması )
+
+Veriyi ikiye böler. İki yarıyı da ayrı ayrı sıralar. Sonra birleştirme yapar.
+Bölme ve birleştirme işlemlerinde zaman karmaşıklığı kullanır. Bundan dolayı büyük 
+veri setlerinde oldukça etkili bir yöntemdir.
+
+
+6-) Heap Sort ( Hızlı Seçim Sıralaması )
+
+Bir dizi üzerinde heap ( ağaç ) veri yapısı oluşturulur. Sıralama işlemi bu heap 
+üzerinden yapılır. Büyük veri setlerinde zaman karmaşıklığı hafızada daha az yer 
+kapladığı için daha verimli bir yaklaşım haline gelir.
+
+
+7-) Counting Sort ( Sayma Sıralaması )
+
+Veri setinin aralığı dikkate alınır. Her bir elemanın kaç kez göründüğünü sayarak sıralama yapar.
+
+
+8-) Radix Sort ( Radyal Sıralama )
+
+Elemanlar basamaklarına göre sıralanır. Sayısal veriler için kullanılır.
+Pozitif tamsayılarda sıralama işlemlerinde etkilidir.
+
+
+9-) Topolojik Sıralama 
+
+Yönlendirilmiş ayrık grafikler üzerinde kullanılır. 
+Grafik içindeki düğümlerin bağımlılık sırasına göre sıralama yapılır.
+
+
+
+
