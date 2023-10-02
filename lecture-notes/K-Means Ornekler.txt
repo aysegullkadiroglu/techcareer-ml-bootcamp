@@ -1,0 +1,38 @@
+K Means Algoritması ile yapılabilecek güncel uygulamalar
+
+1- Müşteri segmentasyonu:
+
+Bir e ticaret firmasında müşterileri farklı gruplara ayırarak reklam kampanyaları ve satış stratejileri uygulanabilir.
+
+
+2- Görüntü Sıkıştırma:
+
+Görüntüyü renk kümelerine göre sıkıştırma işlemleri yapılabilir. GIF veya PNG formatlarında boyut küçültme işlemleri yapılmaktadır.
+
+
+3- Veri Görselleştirme : 
+
+Veriler kümelere ayırılır; farklı renkler, sembollere göre görselleştirme işlemleri yapılır.
+
+
+4- Rekomendasyon Sistemler ( Tavsiye Sistemleri ): 
+
+Ürün veya içerikleri gruplandırarak öneri sistemleri yapılabilir.
+
+
+5- Coğrafi Analizler:
+
+Bir firma olduğunu düşünelim. Bu firma ülkedeki bölgelere göre dağıtım yapıyor olsun. Dağıtım merkezlerini belirleme 
+işlemleri K-means ile yapılabilir.
+
+
+6- Genetik Analiz:
+
+Benzer genetik profillerine bakılarak bireyleri gruplandırma yapılabilir.
+
+
+7- Eğitim ve Analiz :
+
+Öğrencilerin başarı analizi, ilgi alanları, öğrenme tarzlarına göre kümelemeler yapılabilir.
+
+
