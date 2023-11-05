@@ -1,0 +1,28 @@
+**Veri Keşfi ve Ön İşleme
+
+Veri setini indirin ve veriye göz atın.
+Veri setinin yapısını anlamak için temel istatistikleri ve görselleştirmeleri kullanarak veriyi analiz edin.
+Eksik verileri tespit edin ve gerekirse bunları doldurun.
+Veriyi normalize veya ölçeklendirin, gerekiyorsa kategorik verileri dönüştürün.
+
+*** K-Means Algoritması
+
+K-Means algoritmasını uygulamadan önce K değerini belirlemek için dirsek metodu kullanın.
+Dirsek metodu için farklı K değerlerine karşılık gelen kümeleme sonuçlarını değerlendirin ve en uygun K değerini seçin.
+Seçilen K değeri ile K-Means algoritmasını uygulayın.
+Küme merkezlerini ve atanan kümeleri görselleştirin.
+
+**** DBSCAN Algoritması
+
+DBSCAN için eps ve minpts değerlerini belirlemek için farklı değerleri deneyin ve sonuçları değerlendirin.
+En uygun eps ve minpts değerlerini seçin.
+Seçilen parametrelerle DBSCAN algoritmasını uygulayın.
+Elde edilen kümeleme sonuçlarını görselleştirin.
+
+
+
+
+
+
+
+
