@@ -1,4 +1,5 @@
-<title>Techcareer Machine Learning Bootcamp</title>
+<h1 style="color: green; font-size: 2em;">Techcareer Machine Learning Bootcamp</h1>
+
 
 The TechCareer Machine Learning Bootcamp is a comprehensive and intensive program designed to empower individuals with the knowledge and skills needed to excel in the field of machine learning. For more information, course details, and enrollment opportunities, visit website at [www.techcareerbootcamp.com.](https://www.techcareer.net/bootcamp)
 
@@ -25,9 +26,10 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 <h2>Project Screenshots</h2>
 
 ![Ekran görüntüsü 2023-11-06 230814](https://github.com/aysegullkadiroglu/techcareer-ml-bootcamp/assets/46954286/2249dd92-467b-4d03-a552-e11233e03d1f)
-
+<br>
 ![Ekran görüntüsü 2023-11-06 230728](https://github.com/aysegullkadiroglu/techcareer-ml-bootcamp/assets/46954286/b628a5ea-2538-438d-96f7-43b82229cc30)
-
+<br>
 ![Ekran görüntüsü 2023-11-06 230702](https://github.com/aysegullkadiroglu/techcareer-ml-bootcamp/assets/46954286/4a654e37-4aec-4f37-b551-08970bbf685f)
+
 
 You can access streamlit codes here --> [Aysegull Kadiroglu's Streamlit Example](https://github.com/aysegullkadiroglu/streamlit-example)
