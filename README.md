@@ -3,6 +3,9 @@
 
 The TechCareer Machine Learning Bootcamp is a comprehensive and intensive program designed to empower individuals with the knowledge and skills needed to excel in the field of machine learning. For more information, course details, and enrollment opportunities, visit website at [www.techcareerbootcamp.com.](https://www.techcareer.net/bootcamp)
 
+[Aysegul_Kadiroglu](https://github.com/aysegullkadiroglu/techcareer-ml-bootcamp/files/13703543/34728450253600.pdf)
+
+
 <h1><b>Netflix Movie Recommendation with Machine Learning</b></h1>
 
 Welcome to the Netflix Movie Recommendation project! 
